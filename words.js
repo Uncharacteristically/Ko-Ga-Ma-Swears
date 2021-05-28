@@ -5,6 +5,7 @@
   "a.u.s.t.i.s.t",
   "a.u.t.i.s.m",
   "a$$",
+  "alky",
   "amatuer",
   "an4l",
   "anal",
